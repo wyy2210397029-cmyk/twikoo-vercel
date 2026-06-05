@@ -1,0 +1,8 @@
+{
+  "name": "twikoo-vercel",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "twikoo-vercel": "^1.6.6"
+  }
+}
