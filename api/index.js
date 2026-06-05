@@ -1,3 +1,1 @@
-const { createServer } = require("twikoo-vercel");
-
-module.exports = createServer();
+module.exports = require("twikoo-vercel");
